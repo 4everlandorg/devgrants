@@ -2,13 +2,13 @@
 
 **Name of Project:** 4EVERLAND
 
-**Proposer:** Clarence - [cryptobuffer](https://github.com/cryptobuffer) Core Team of 4EVERLAND
+**Proposer:** Clarence - [cryptobuffer](https://github.com/cryptobuffer) Core Team of 4EVERLAND.
 
 **Do you agree to open source all work you do on behalf of this RFP and dual-license under MIT and APACHE2 licenses?:** 
 
-Yes
+Yes.
 
-4EVERLAND is licensed with MIT license for code or CC-BY-SA 3.0 license for content
+4EVERLAND is licensed with MIT license for code or CC-BY-SA 3.0 license for content.
 
 # Project Description
 
@@ -60,7 +60,7 @@ $50000
 ## Maintenance and Upgrade Plans
 
 We've already laid out our plan for next 2 quarters but it doesn't end there. 
-Please see our V2 roadmap for more details. [V2 Announcements](https://medium.com/4everland/4everland-announcement-4everland-roadmap-v2-f7d6ed3619b3)
+Please see our V2 roadmap for more details: [V2 Announcements](https://medium.com/4everland/4everland-announcement-4everland-roadmap-v2-f7d6ed3619b3)
 
 # Team
 
