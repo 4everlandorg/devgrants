@@ -67,18 +67,27 @@ Please see our V2 roadmap for more details. [V2 Announcements](https://medium.co
 ## Team Members
 
 - Clarence
+
 Role: Core Team Developer|Full Stack Engineer
+
 Email: qwertyhqwerty475@gmail.com
+
 Github: @cryptobuffer
 
 - Thloyi
+
 Role: Core Team Developer|4EVER-Hosting Architect
+
 Email: tfspq@protonmail.com
+
 Github: @thloyi
 
 - Saullary
+
 Role: Core Team Developer|Front End Developer
+
 Email: saullarytzc94@gmail.com
+
 Github: @saullary
 
 ## Team Website
