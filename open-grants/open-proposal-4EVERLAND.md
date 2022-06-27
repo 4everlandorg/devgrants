@@ -60,7 +60,7 @@ $50000
 ## Maintenance and Upgrade Plans
 
 We've already laid out our plan for next 2 quarters but it doesn't end there. 
-Please see our V2 roadmap for more details: [V2 Announcements](https://medium.com/4everland/4everland-announcement-4everland-roadmap-v2-f7d6ed3619b3)
+Please see our V2 roadmap for more details: [V2 Announcements](https://medium.com/4everland/4everland-announcement-4everland-roadmap-v2-f7d6ed3619b3).
 
 # Team
 
